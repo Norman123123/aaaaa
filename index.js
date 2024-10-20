@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "    Gửi đến phú bà Thúy Nga  ." //Lời mở đầu cho bức thư
-const mainContentLetter = "Chúc mừng Ngày Phụ nữ 20/10!Hãy luôn trân trọng và tự yêu bản thân mình, bởi bạn xứng đáng với những điều tốt đẹp nhất trong cuộc sống.Happy Women's Day!" //Nội dung của bức thư
+const mainContentLetter = "Chúc mừng Ngày Phụ nữ 20/10!Hãy luôn trân trọng và tự yêu bản thân mình, bởi c xứng đáng với những điều tốt đẹp nhất trong cuộc sống.Happy Women's Day! P.s: ảnh locket" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
